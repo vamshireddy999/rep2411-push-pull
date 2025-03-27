@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <div className='mainContainer'>
+    <h1>this file indicates the concept of push and pull</h1>
       <img src='./images/rohit.jpg' alt=''className='playersPic'></img>
       <h1>name:rohit</h1>
     <h2>team:mumbai</h2>
