@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.playersPic{
+  width: 200px;
+  height: 200px;
+}
+.mainContainer{
+  display: inline-block;
+  background-color: aquamarine;
+  width: 300px;
+  border: 3px solid hotpink;
+  border-radius: 20px;
+}
+div{
+  display: inline-block;
+}
